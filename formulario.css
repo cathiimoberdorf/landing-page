@@ -1,0 +1,28 @@
+h1 {
+    font-size: 28px;
+}
+form {
+    background-color:azure ;
+    padding: 20px;
+}
+body {
+    font-family: 'Quicksand', sans-serif;;
+    background-color: azure;
+
+}
+.form-label {
+    font-size: 26px;
+}
+
+.form-submit { 
+    background-color: rgb(169, 232, 243);
+    font-size: 26px;
+    font-family: 'Quicksand', sans-serif;
+
+
+}
+.form-imput
+{
+    width: 100%;
+    padding: 8px;
+}
